@@ -24,6 +24,7 @@ The Hangman Game is a fun and interactive text-based Python application where th
 -  Lists  
 
 👨‍💻 Author
+
 **Venkata Naga Sai**
 
 🚀 Future Improvements
@@ -31,4 +32,4 @@ The Hangman Game is a fun and interactive text-based Python application where th
 -  Provide hints for words  
 -  Improve UI (GUI version using Tkinter)
   
-   python hangman game.py
+   @python hangman game.py
